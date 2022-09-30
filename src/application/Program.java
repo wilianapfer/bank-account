@@ -52,6 +52,7 @@ public class Program {
 		System.out.println(account);
 		
 		System.out.println("Fim");
+		System.out.println("Boa tarde");
 		
 		sc.close();
 	}
